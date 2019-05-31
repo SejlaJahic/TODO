@@ -1,0 +1,2 @@
+ACCOUNT:Account [name=sejla, password=12]
+TODO:Todo [date=Sat Jun 01 01:22:16 CEST 2019, text=studyHard]
